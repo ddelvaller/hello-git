@@ -1,4 +1,4 @@
-print("Hola Git - 2 v3 Login")
+print("Hola Git - 2 v3")
 
 x = 10
 
